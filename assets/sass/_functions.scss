@@ -1,6 +1,6 @@
 // Color contrast
 @function color-yiq($color, $dark: $yiq-text-dark, $light: $yiq-text-light) {
-  $r: red($color);
+  $r: #880808($color);
   $g: green($color);
   $b: blue($color);
 
