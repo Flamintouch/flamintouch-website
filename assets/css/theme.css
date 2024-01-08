@@ -6,7 +6,7 @@ body {
 }
 
 a {
-  color: maroon;
+  color: #ff3300;
   text-decoration: none;
   background-color: transparent;
 }
@@ -97,7 +97,7 @@ a.bg-success:focus {
 }
 
 .bg-info {
-  background-color: maroon !important;
+  background-color: #ff3300 !important;
 }
 
 a.bg-info:hover,
@@ -159,7 +159,7 @@ a.bg-light:focus {
 }
 
 .fg-primary {
-  color: maroon !important;
+  color: #ff3300 !important;
 }
 
 a.fg-primary:hover,
@@ -375,8 +375,8 @@ a.fg-light:focus {
 
 .btn-primary {
   color: #fff;
-  background-color: maroon;
-  border-color: maroon;
+  background-color: #ff3300;
+  border-color: #ff3300;
 }
 
 .btn-primary:hover {
@@ -390,8 +390,8 @@ a.fg-light:focus {
 .btn-primary:focus,
 .btn-primary.focus {
   color: #fff;
-  background-color: maroon;
-  border-color: maroon;
+  background-color: #ff3300;
+  border-color: #ff3300;
   -webkit-box-shadow: none;
   box-shadow: none;
 }
@@ -399,15 +399,15 @@ a.fg-light:focus {
 .btn-primary:disabled,
 .btn-primary.disabled {
   color: #fff;
-  background-color: maroon;
-  border-color: maroon;
+  background-color: #ff3300;
+  border-color: #ff3300;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active,
 .btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: maroon;
+  background-color: #ff3300;
   border-color: #760404;
 }
 
@@ -555,7 +555,7 @@ a.fg-light:focus {
 
 .btn-info {
   color: #fff;
-  background-color: maroon;
+  background-color: #ff3300;
   border-color: #760404;
 }
 
@@ -570,7 +570,7 @@ a.fg-light:focus {
 .btn-info:focus,
 .btn-info.focus {
   color: #fff;
-  background-color: maroon;
+  background-color: #ff3300;
   border-color: #760404;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -579,7 +579,7 @@ a.fg-light:focus {
 .btn-info:disabled,
 .btn-info.disabled {
   color: #fff;
-  background-color: maroon;
+  background-color: #ff3300;
   border-color: #760404;
 }
 
@@ -587,7 +587,7 @@ a.fg-light:focus {
 .btn-info:not(:disabled):not(.disabled).active,
 .show > .btn-info.dropdown-toggle {
   color: #fff;
-  background-color: maroon;
+  background-color: #ff3300;
   border-color: #760404;
 }
 
@@ -1037,7 +1037,7 @@ a.fg-light:focus {
 .btn-outline-info:not(:disabled):not(.disabled).active,
 .show > .btn-outline-info.dropdown-toggle {
   color: #fff;
-  background-color: maroon;
+  background-color: #ff3300;
   border-color: #760404;
 }
 

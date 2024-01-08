@@ -172,13 +172,13 @@ sup {
 }
 
 a {
-  color: maroon;
+  color: #ff3300;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #760404;
+  color: #ff3300;
   text-decoration: underline;
 }
 
@@ -10511,7 +10511,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: maroon !important;
+  color: #ff3300 !important;
 }
 
 a.text-primary:hover,
